@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686253817443",
+    "firebase_url": "https://hackaton-8e2e9.firebaseio.com",
+    "project_id": "hackaton-8e2e9",
+    "storage_bucket": "hackaton-8e2e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686253817443:android:becb624826579770",
+        "android_client_info": {
+          "package_name": "aiesec.esprit.com.hackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686253817443-rjp5t2pelosr13tnke2erjqd9qqi6nt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtKlQND7jlFsBeFzp9_n3zyZzjuEFCsuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686253817443-rjp5t2pelosr13tnke2erjqd9qqi6nt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
